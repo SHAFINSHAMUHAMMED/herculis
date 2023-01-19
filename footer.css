@@ -1,0 +1,21 @@
+.footer-a{
+    width: 100%;  
+}
+.footer-b{
+    width: 90%;
+    margin: 0 auto 0 auto;
+}
+.copy-wright{
+
+}
+.disclaimer{
+ text-decoration: none;
+ color: rgb(141, 141, 141);  
+}
+.color-svg{
+    fill: white;
+    margin-left: 15px;
+}
+.a-tags{
+    text-decoration: none;
+}

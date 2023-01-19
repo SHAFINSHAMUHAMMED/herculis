@@ -1,0 +1,87 @@
+.inner-video{
+background-image:url(https://hercules.in/wp-content/uploads/2020/09/Web-1920-%E2%80%93-1.png) ;
+height: 754px;
+}
+.picture{
+background-color: transparent;
+margin: 0px;
+margin-left: auto;
+margin-right: auto; 
+}
+.iframe-img{
+
+}
+.video-txt{
+    display: block;
+}
+.innovation-line{
+
+    margin: 0;
+    margin-left: 0%;
+    margin-right: 2%;
+   
+}
+.line-text{
+    text-align: center;
+}
+.line1-height{
+    height: 2px;
+    width: 40%;
+    background-color: white;
+    margin: auto auto auto auto;
+}
+.icon-colo:hover{
+    fill: #e10707;
+}
+.herc-txt{
+ background-color: rgb(243, 243, 243);
+ margin: 0px;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.red-button{ 
+    height: 20px;
+    margin-top: 20px;
+    padding: 13px 29px;
+    line-height: 17px;
+    font-size: 14px;
+    background: #e10707;
+    border-radius: 4px;
+    text-decoration: none;
+}
+.red-button:hover{
+    background-color: #b71b1b;
+}
+.text-color{
+    color: white;
+    font-weight: 500;
+}
+.Description{
+    font-size: 18px;
+    background-color: transparent;
+    text-align: center;
+    
+     
+}
+.picture-b{
+    width: 100%;
+    background-color: transparent;
+    margin: 0px;
+    }
+.line-text-a{
+    font-size: 55px;
+}
+.tex-hov{
+    color: rgb(255, 255, 255) !important;
+
+}
+.tex-hov:hover{
+    color: #e10707 !important;
+}
+.transformation{
+    transition: .3s;
+}
+.transformation:hover{
+    transform: scale(1.1);
+}
